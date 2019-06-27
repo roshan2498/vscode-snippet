@@ -1,5 +1,6 @@
-#VSCODE CPP snippet for Competitve Programming
+# VSCode CPP snippet for Competitive Programming
 
+```
 {
 	"cpp-snippet": {
 		"prefix": "cpp",
@@ -26,3 +27,4 @@
 	}
 
 }
+```
